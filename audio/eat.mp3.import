@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/eat.mp3-5a476576c51d53bed988ce82c4f39781.mp3str"
+
+[deps]
+
+source_file="res://audio/eat.mp3"
+dest_files=[ "res://.import/eat.mp3-5a476576c51d53bed988ce82c4f39781.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
